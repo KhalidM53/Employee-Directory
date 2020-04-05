@@ -10,9 +10,9 @@ html,body {
 }
 
 .title {
-    background-color: rgb(40, 77, 48);
+    background-color: rgb(24, 222, 236);
     text-align: center;
     font-size: 3rem;
-    border: solid black;
+    border: solid rgb(212, 209, 209);
     padding: 20px;
 }
